@@ -19,3 +19,8 @@
 ## 技术说明
 
 纯 HTML + CSS + 原生 JavaScript，无任何外部资源或网络依赖。所有配置持久化于 `localStorage`（键：`exam-desktop-config-v1`），如需重置可清除该键或清除浏览器站点数据。
+
+## 马上尝试
+
+直接访问 https://zcb1010101.github.io/z_exam_desktop/  
+
